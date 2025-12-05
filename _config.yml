@@ -1,0 +1,27 @@
+title: Kirsten Baltazar
+logo: /assets/images/headcircle.png
+description: >-
+  Psychology-trained data analyst blending qualitative human insights
+  with quantitative human rigour for visual data storytelling.
+theme: jekyll-theme-minimal
+url: "https://kirs10bltzr.github.io/portfolio"
+
+github_username: kirs10bltzr
+linkedin_username: kirstenbltzr
+email: kirs10bltzr1@gmail.com
+show_downloads: true
+
+skills:
+  - Exploratory Data Analysis
+  - Predictive Analysis
+  - Factors Analysis
+  - Hypothesis-testing
+  - Primary Research Design
+
+accent_color: "#4B0092"
+accent_color_dark: "#332288"
+lang: en-IE
+timezone: Europe/Dublin
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
